@@ -1,7 +1,7 @@
 ### Stock price prediction
 
 #### Authors
-Shuyan,Zhang Tianyi,Zhang Yuqi,Fu
+Shuyan,Liu Yue,Chen
 
 #### Usage
 pip3 install -r requirement.txt 
